@@ -21,14 +21,13 @@
 
 Check out some of my projects:
 
-1. [Project 1](https://github.com/yourusername/project1)
-2. [Project 2](https://github.com/yourusername/project2)
-3. [Project 3](https://github.com/yourusername/project3)
+1. [Whatsapp Automation Script]([https://github.com/yourusername/project1](https://github.com/dannyk-dev/whatsapp-automation))
+2. [SupaFace Social Media Platform](https://github.com/dannyk-dev/supaface)
+3. [Frontend Trello Clone](https://github.com/dannyk-dev/trello-clone)
 
 ### 📫 How to reach me:
 
 - 📧 Email: kruger.dkk@gmail.com
-- 🔗 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername/)
-- 📸 Instagram: [Your Instagram Profile](https://www.instagram.com/yourusername/)
+- 🔗 LinkedIn: [Your LinkedIn Profile](https://github.com/dannyk-dev/trello-clone)
 
 Feel free to connect and trade some ideas 🚀
