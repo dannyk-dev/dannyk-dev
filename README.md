@@ -21,7 +21,7 @@
 
 Check out some of my projects:
 
-1. [Whatsapp Automation Script]([https://github.com/yourusername/project1](https://github.com/dannyk-dev/whatsapp-automation))
+1. [Whatsapp Automation Script](https://github.com/dannyk-dev/whatsapp-automation)
 2. [SupaFace Social Media Platform](https://github.com/dannyk-dev/supaface)
 3. [Frontend Trello Clone](https://github.com/dannyk-dev/trello-clone)
 
