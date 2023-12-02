@@ -28,6 +28,5 @@ Check out some of my projects:
 ### 📫 How to reach me:
 
 - 📧 Email: kruger.dkk@gmail.com
-- 🔗 [LinkedIn](https://github.com/dannyk-dev/trello-clone)
 
 Feel free to connect and trade some ideas 🚀
