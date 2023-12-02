@@ -3,7 +3,7 @@
 ### 👨‍💻 Software Engineering Student | 💼 Software Developer Intern
 
 - 🎓 Studying Software Engineering at UniAmerica
-- 🌐 Currently interning at CrowTech in Brazil
+- 🌐 Currently interning at CrowTech
 - 💡 Experienced in:
 
   ![Python](https://progress-bar.dev/70/?title=Python)
