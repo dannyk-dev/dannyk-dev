@@ -1,9 +1,8 @@
 ## 👋 Hello, I'm Danniell Kruger
 
-### 👨‍💻 Software Engineering Student | 💼 Software Developer Intern
+### 👨‍💻 Software Engineering Student | Software Developer 
 
 - 🎓 Studying Software Engineering at UniAmerica
-- 🌐 Currently interning at CrowTech
 - 💡 Experienced in:
 
   ![Python](https://progress-bar.dev/70/?title=Python)
