@@ -7,12 +7,14 @@
 
   ![Python](https://progress-bar.dev/70/?title=Python)
   ![JavaScript](https://progress-bar.dev/80/?title=JavaScript)
-  ![React.js](https://progress-bar.dev/70/?title=React.js)
-  ![PHP](https://progress-bar.dev/70/?title=PHP)
-  ![Laravel](https://progress-bar.dev/60/?title=Laravel)
+  ![React.js](https://progress-bar.dev/80/?title=React.js)
+  ![React Native](https://progress-bar.dev/80/?title=ReactNative)
+  ![PHP](https://progress-bar.dev/50/?title=PHP)
+  ![Laravel](https://progress-bar.dev/50/?title=Laravel)
   ![Node.js](https://progress-bar.dev/60/?title=Node.js)
-  ![Next.js](https://progress-bar.dev/60/?title=Next.js)
-  ![Vue.js](https://progress-bar.dev/30/?title=Vue.js)
+  ![Next.js](https://progress-bar.dev/80/?title=Next.js)
+  ![Vue.js](https://progress-bar.dev/60/?title=Vue.js)
+  
 
 - 🌱 Currently learning Vue.js and honing my skills in PHP and Laravel
 
